@@ -1,4 +1,8 @@
-## Hi there 👋
+Hi there 
+
+I'm Daniyal, a Software Engineering student passionate about building clean, user-friendly applications with Flutter and Dart. I enjoy turning ideas into cross-platform apps for Android, iOS, web, and desktop while continuously learning and improving my skills.
+
+I'm always open to internships, freelance opportunities, and collaborations where I can grow as a developer and contribute to meaningful projects. Let's connect and build something great together!
 
 <!--
 **daniyalakhtar67/daniyalakhtar67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
