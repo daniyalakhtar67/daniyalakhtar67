@@ -12,13 +12,11 @@ I'm always open to internships, freelance opportunities, and exciting collaborat
 
 Tech Stac
 
-- 💙 Flutter
-- 🎯 Dart
-- 🔥 Firebase
-- 🗄️ Supabase
-- 💻 C++
-- 🌐 HTML • CSS • JavaScript
-- 🛠️ Git & GitHub
+- Flutter
+- Dart
+- Firebase
+- Supabase
+- Git & GitHub
 
 Fun Facts
 
