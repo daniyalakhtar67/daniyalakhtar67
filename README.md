@@ -1,20 +1,29 @@
-Hi there 
+# Hey there! 
 
-I'm Daniyal, a Software Engineering student passionate about building clean, user-friendly applications with Flutter and Dart. I enjoy turning ideas into cross-platform apps for Android, iOS, web, and desktop while continuously learning and improving my skills.
+I'm Daniyal Akhtar, a Software Engineering student from Pakistan.
 
-I'm always open to internships, freelance opportunities, and collaborations where I can grow as a developer and contribute to meaningful projects. Let's connect and build something great together!
+I enjoy building clean and user-friendly applications with Flutter and Dart.
 
-<!--
-**daniyalakhtar67/daniyalakhtar67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about learning new technologies, solving real-world problems, and turning ideas into useful software.
 
-Here are some ideas to get you started:
+Currently, I'm improving my skills in Flutter, Firebase, & UI/UX design while building cross-platform apps for Android, iOS, web, and desktop.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm always open to internships, freelance opportunities, and exciting collaborations.
+
+Tech Stac
+
+- 💙 Flutter
+- 🎯 Dart
+- 🔥 Firebase
+- 🗄️ Supabase
+- 💻 C++
+- 🌐 HTML • CSS • JavaScript
+- 🛠️ Git & GitHub
+
+Fun Facts
+
+- Always learning something new.
+- Tea over coffee.
+- Love exploring new tech and building projects.
+- Goal: Become a skilled Developer.
+
