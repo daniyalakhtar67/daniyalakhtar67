@@ -2,26 +2,24 @@
 
 I'm Daniyal Akhtar, a Software Engineering student from Pakistan.
 
-I enjoy building clean and user-friendly applications with Flutter and Dart.
+I love building clean, scalable apps with Flutter and Dart — right now I'm deep into MVC architecture and state management with Bloc and GetX to write more maintainable, production-ready code.
 
-I'm passionate about learning new technologies, solving real-world problems, and turning ideas into useful software.
+I'm passionate about learning new technologies, solving real-world problems, and turning ideas into software people actually enjoy using.
 
-Currently, I'm improving my skills in Flutter, Firebase, & UI/UX design while building cross-platform apps for Android, iOS, web, and desktop.
+Currently sharpening my skills in Flutter, Firebase, and clean architecture patterns while building cross-platform apps for Android, iOS, web, and desktop.
 
-I'm always open to internships, freelance opportunities, and exciting collaborations.
+Always open to internships, freelance work, and collaborations — feel free to reach out!
 
-Tech Stac
-
-- Flutter
-- Dart
-- Firebase
-- Supabase
-- Git & GitHub
-
+Tech Stack
+Flutter
+Dart
+Bloc / GetX
+MVC Architecture
+Firebase
+Supabase
+Git & GitHub
 Fun Facts
-
-- Always learning something new.
-- Tea over coffee.
-- Love exploring new tech and building projects.
-- Goal: Become a skilled Developer.
-
+Always learning something new.
+Tea over coffee, every time. 
+Love exploring new tech and turning ideas into projects.
+Goal: become a developer who builds things that actually matter.
