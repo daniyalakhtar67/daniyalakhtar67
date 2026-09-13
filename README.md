@@ -25,5 +25,3 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daniyalakhtar67&theme=dark)
 
-<br>
-⭐️ From [daniyalakhtar67](https://github.com/daniyalakhtar67)
