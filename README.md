@@ -10,16 +10,18 @@ Currently sharpening my skills in Flutter, Firebase, and clean architecture patt
 
 Always open to internships, freelance work, and collaborations — feel free to reach out!
 
-Tech Stack
-Flutter
-Dart
-Bloc / GetX
-MVC Architecture
-Firebase
-Supabase
-Git & GitHub
-Fun Facts
-Always learning something new.
-Tea over coffee, every time. 
-Love exploring new tech and turning ideas into projects.
-Goal: become a developer who builds things that actually matter.
+## Tech Stack
+- Flutter
+- Dart
+- Bloc / GetX
+- MVC Architecture
+- Firebase
+- Supabase
+- Isar
+- Git & GitHub
+- 
+## Fun Facts
+- Always learning something new.
+- Tea over coffee, every time. 
+- Love exploring new tech and turning ideas into projects.
+- Goal: become a developer who builds things that actually matter.
