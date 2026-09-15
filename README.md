@@ -1,27 +1,27 @@
-<h1 align="center">Hi 👋, I'm Daniyal Akhtar</h1>
+# Hey there! 
 
-- 🔭 I'm currently working with MVC, Bloc, and GetX in Flutter
-- 🌱 I'm currently learning Firebase & Supabase
-- 💬 Ask me anything about Flutter, Bloc, or GetX
-- 📫 How to reach me: daniyalakhtarpatoojo@gmail.com
-- 😄 My website: https://daniyalakhtar67.github.io/Portfolio/
-- ⚡ Fun fact: Always choosing tea over coffee ☕🚫
+I'm Daniyal Akhtar, a Software Engineering student from Pakistan.
 
-### Connect with me:
-<div id="badges">
-  <a href="https://github.com/daniyalakhtar67">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
-  </a>
-  <a href="https://www.instagram.com/daniyalakhtar67">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://www.tiktok.com/@devdanCodes">
-    <img src="https://img.shields.io/badge/TikTok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Badge"/>
-  </a>
-</div>
+I love building clean, scalable apps with Flutter and Dart — right now I'm deep into MVC architecture and state management with Bloc and GetX to write more maintainable, production-ready code.
 
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)](https://skillicons.dev)
+I'm passionate about learning new technologies, solving real-world problems, and turning ideas into software people actually enjoy using.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daniyalakhtar67&theme=dark)
+Currently sharpening my skills in Flutter, Firebase, and clean architecture patterns while building cross-platform apps for Android, iOS, web, and desktop.
 
+Always open to internships, freelance work, and collaborations — feel free to reach out!
+
+## Tech Stack
+- Flutter
+- Dart
+- Bloc / GetX / Provider
+- MVC Architecture
+- Firebase
+- Isar
+- Supabase
+- Git & GitHub
+- Fun Facts
+
+## Always learning something new.
+- Tea over coffee, every time. ☕🚫
+- Love exploring new tech and turning ideas into projects.
+- Goal: become a developer who builds things that actually matter.
