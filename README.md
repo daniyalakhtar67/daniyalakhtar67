@@ -22,6 +22,6 @@ Always open to internships, freelance work, and collaborations — feel free to 
 - Fun Facts
 
 ## Always learning something new.
-- Tea over coffee, every time. ☕🚫
+- Tea over coffee, every time. 
 - Love exploring new tech and turning ideas into projects.
 - Goal: become a developer who builds things that actually matter.
